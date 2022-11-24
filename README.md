@@ -14,19 +14,31 @@ Foi usada a estrutura padrão:
 
 .
 ├── datasets
-│   └── heart\_attack
-│       ├── heart\_attack\_data\_set.pkl
-│       └── raw
-├── environment.yml
-├── notebooks
-│   ├── edas
-│   │   ├── eda\_joaopedro\_heart-attack.ipynb
-│   │   ├── \_\_init\_\_.py
-│   │   └── tools
-│   ├── models.ipynb
-│   └── report.ipynb
-├── outputs
-│   └── best\_model.pkl
-└── README.md
 
-7 directories, 8 files
+│   └── heart\_attack
+
+│       ├── heart\_attack\_data\_set.pkl
+
+│       └── raw
+
+├── environment.yml
+
+├── notebooks
+
+│   ├── edas
+
+│   │   ├── eda\_joaopedro\_heart-attack.ipynb
+
+│   │   ├── \_\_init\_\_.py
+
+│   │   └── tools
+
+│   ├── models.ipynb
+
+│   └── report.ipynb
+
+├── outputs
+
+│   └── best\_model.pkl
+
+└── README.md
