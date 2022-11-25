@@ -34,3 +34,18 @@ Foi usada a estrutura padrão:
 │   └── best\_model.pkl
 └── README.md
 ```
+
+## Pastas
+
+- datasets: contém os dados brutos e processados usados no projeto.
+- notebooks: cadernos jupyter do projeto
+- notebooks/edas: analises exploratórias individuais
+- notebooks/edas/tools: pacote contendo funcionalidades para o processamento de dados (para ajudar nos cadernos)
+- outputs: saídas
+
+## Arquivos
+
+- environment.yml: ambiente virtual utilizado com o conda
+- notebooks/models.ipynb: carderno com os experimentos com os modelos
+- notebooks/report.ipynb: caderno com a eda combinada
+- outputs/best\_model.ipynb: modelo final salvo como pickle
